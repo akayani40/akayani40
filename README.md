@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Ali Kayani
+# 👋 Hi, I'm Ali Kayani, thanks for being here!
 
 🎓 Informatics @ UC Irvine (Class of 2025)  
 💻 Building full-stack tools powered by AI | Passionate about scalable systems, cloud, and backend development  
