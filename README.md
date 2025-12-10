@@ -2,8 +2,6 @@
 # 👋 Hi, I'm Ali Kayani, thanks for being here!
 
 🎓 Informatics @ UC Irvine (Class of 2025)  
-💻 Building full-stack tools powered by AI | Passionate about scalable systems, cloud, and backend development  
-🚀 Always learning. Always shipping.
 
 ---
 
@@ -49,6 +47,3 @@ Showcasing my work, design philosophy, and projects.
 - 📫 ali@alikayani.com
 
 ---
-
-“Code with clarity. Build with purpose.”
-
